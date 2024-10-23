@@ -6,4 +6,5 @@
  /home1729675369736:req is made on the server 
  /about1729675383640:req is made on the server 
  /favicon.ico1729675390254:req is made on the server 
+ /favicon.ico1729678176728:req is made on the server 
  /favicon.ico
