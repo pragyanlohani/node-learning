@@ -1,0 +1,9 @@
+1729675007566:req is made on the server 
+ /1729675008744:req is made on the server 
+ /favicon.ico1729675353557:req is made on the server 
+ /1729675354291:req is made on the server 
+ /favicon.ico1729675363001:req is made on the server 
+ /home1729675369736:req is made on the server 
+ /about1729675383640:req is made on the server 
+ /favicon.ico1729675390254:req is made on the server 
+ /favicon.ico
